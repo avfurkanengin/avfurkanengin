@@ -44,4 +44,4 @@ Currently delivering long-term legal advisory in Turkish, English, and German �
 ```text
 Python · Flask · Telethon · Tweepy · OpenAI API · Pandas · NumPy  
 Git · Markdown · Replit · Render · GitHub Actions  
-Languages: Turkish (native), English (C1), German (B1)
+Languages: Turkish (native), English (C1), German (B2)
