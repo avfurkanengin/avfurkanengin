@@ -58,4 +58,3 @@ Git · Markdown · Replit · Render · GitHub Actions
 Languages: Turkish (native), English (C1), German (B2)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=avfurkanengin&color=blue)
