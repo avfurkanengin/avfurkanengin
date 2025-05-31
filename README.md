@@ -7,7 +7,7 @@
 ![OpenAI API](https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai&logoColor=white)
 ![Twitter Developer](https://img.shields.io/badge/Twitter-Dev-1da1f2?style=flat&logo=twitter&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Technology-0e76a8?style=flat&logo=blockchaindotcom&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-C-Chain-e84142?style=flat&logo=avalanche&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-C--Chain-e84142?style=flat)
 ![Ethereum](https://img.shields.io/badge/Ethereum-Web3-3c3c3d?style=flat&logo=ethereum&logoColor=white)
 ![NFTs](https://img.shields.io/badge/NFT-Creator-8e44ad?style=flat&logo=openmined&logoColor=white)
 
