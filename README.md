@@ -27,7 +27,7 @@ I am a lawyer registered with the Istanbul Bar Association, offering legal consu
 - Data Protection Compliance (GDPR & KVKK)  
 - European Union Law & CBAM Policy  
 - Family Law, Inheritance Law  
-- Real Estate & Tenancy Law  
+- Real Estate & Rental Law  
 - Employment Disputes  
 - E-commerce & Digital Platform Regulations  
 
